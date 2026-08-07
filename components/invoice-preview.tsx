@@ -67,7 +67,7 @@ export function InvoicePreview({
             <div className="space-y-0.5 text-sm text-muted-foreground">
               <p>123 Business Ave, Suite 400</p>
               <p>New York, NY 10001</p>
-              <p>billing@solaristek.com</p>
+              <p>billing@solaris.studio</p>
             </div>
           </div>
           <div className="text-right">

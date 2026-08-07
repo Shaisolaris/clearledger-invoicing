@@ -133,7 +133,7 @@ export function CreateInvoice({ invoiceNumber, onInvoiceSent }: CreateInvoicePro
               <p className="font-semibold">ClearLedger Inc</p>
               <p className="text-sm text-muted-foreground">123 Business Ave, Suite 400</p>
               <p className="text-sm text-muted-foreground">New York, NY 10001</p>
-              <p className="text-sm text-muted-foreground">billing@solaristek.com</p>
+              <p className="text-sm text-muted-foreground">billing@solaris.studio</p>
             </div>
           </div>
 
